@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "about": "Nosotros",
+    "services": "Soluciones",
+    "model": "Modelo integral",
+    "projects": "Proyectos",
+    "process": "Proceso",
+    "contact": "Hablemos de tu proyecto",
+    "menu": "Abrir menú",
+    "close": "Cerrar menú",
+    "home": "Inicio",
+    "language": "Cambiar a inglés",
+    "skip": "Ir al contenido"
+  },
+  "hero": {
+    "eyebrow": "DESARROLLO DE INFRAESTRUCTURA ELÉCTRICA",
+    "title": "Desarrollamos la energía que impulsa a México.",
+    "subtitle": "Ingeniería, planeación y desarrollo de infraestructura eléctrica para el crecimiento del país.",
+    "primary": "Desarrolla tu proyecto",
+    "secondary": "Conoce nuestras soluciones",
+    "bottom": "VISIÓN ESTRATÉGICA. SOLIDEZ TÉCNICA.",
+    "scroll": "EXPLORA DALET",
+    "imageAlt": "Líneas de transmisión eléctrica al atardecer; imagen ilustrativa de infraestructura"
+  },
+  "about": {
+    "eyebrow": "01 / VISIÓN DALET",
+    "title": "Tu proyecto comienza mucho antes de la construcción.",
+    "lead": "En Dalet Electric transformamos las necesidades energéticas de tu proyecto en soluciones de infraestructura técnicamente viables y estratégicamente planeadas.",
+    "p1": "Somos una desarrolladora mexicana de infraestructura eléctrica. Desarrollamos soluciones que permiten materializar proyectos industriales, comerciales e inmobiliarios.",
+    "p2": "Integramos ingeniería, planeación estratégica, gestión regulatoria y administración de proyectos para ofrecer soluciones técnicamente viables y económicamente eficientes.",
+    "p3": "Nuestro enfoque combina conocimiento técnico, visión empresarial y estructuración de proyectos para impulsar el crecimiento industrial de México.",
+    "note": "DE LA VISIÓN A LA INFRAESTRUCTURA",
+    "sectors": [
+      "Industria y manufactura",
+      "Parques industriales",
+      "Desarrollo inmobiliario",
+      "Inversión en México"
+    ]
+  },
+  "services": {
+    "eyebrow": "02 / NUESTRAS SOLUCIONES",
+    "title": "La visión completa.\nEl detalle que importa.",
+    "intro": "Conectamos cada etapa de tu proyecto con una estrategia eléctrica integral.",
+    "more": "Evaluar mi proyecto",
+    "items": [
+      {
+        "title": "Desarrollo de infraestructura eléctrica",
+        "description": "Planeación y desarrollo de subestaciones eléctricas, líneas de media y alta tensión y redes de distribución.",
+        "tag": "INFRAESTRUCTURA"
+      },
+      {
+        "title": "Ingeniería eléctrica",
+        "description": "Ingeniería conceptual, básica y de detalle para proyectos de infraestructura eléctrica.",
+        "tag": "INGENIERÍA"
+      },
+      {
+        "title": "Factibilidad eléctrica y gestión ante CFE",
+        "description": "Evaluación de necesidades de suministro, análisis de disponibilidad de capacidad, solicitudes de factibilidad y acompañamiento en procedimientos ante CFE.",
+        "tag": "FACTIBILIDAD"
+      },
+      {
+        "title": "Gestión regulatoria",
+        "description": "Coordinación de trámites, permisos y procedimientos aplicables al desarrollo de proyectos eléctricos en México.",
+        "tag": "GESTIÓN"
+      },
+      {
+        "title": "Planeación y estructuración de proyectos",
+        "description": "Evaluación técnica, económica y financiera de infraestructura eléctrica para orientar las decisiones de inversión.",
+        "tag": "ESTRATEGIA"
+      },
+      {
+        "title": "Administración de proyectos",
+        "description": "Coordinación integral de las etapas de desarrollo, ingeniería, construcción y entrega de proyectos eléctricos.",
+        "tag": "COORDINACIÓN"
+      }
+    ]
+  },
+  "model": {
+    "eyebrow": "03 / UN MODELO INTEGRAL",
+    "title": "Una visión estratégica.\nUna ejecución coordinada.",
+    "description": "Dalet Electric integra el desarrollo estratégico de proyectos eléctricos con la capacidad de ejecución de CREXA, nuestro brazo constructor y operador.",
+    "philosophy": "DALET diseña, desarrolla y administra; CREXA construye y opera.",
+    "dalet": "Desarrolla · Diseña · Planea · Gestiona · Administra",
+    "crexa": "Construye · Ejecuta · Opera",
+    "daletLabel": "DESARROLLO Y DIRECCIÓN",
+    "crexaLabel": "CONSTRUCCIÓN Y OPERACIÓN",
+    "cta": "Conoce CREXA",
+    "newTab": "Abre en una nueva pestaña"
+  },
+  "feasibility": {
+    "eyebrow": "04 / EL PRIMER PASO",
+    "title": "¿Tu proyecto cuenta con la infraestructura eléctrica que necesita?",
+    "description": "Evaluamos los requerimientos eléctricos de tu proyecto y te acompañamos desde la factibilidad hasta el desarrollo de la infraestructura necesaria.",
+    "note": "Cada proyecto comienza con una conversación bien fundamentada. Cuéntanos lo que necesitas.",
+    "formTitle": "Hablemos de la viabilidad de tu proyecto",
+    "formSubtitle": "Comparte los datos de tu proyecto para solicitar una evaluación inicial.",
+    "imageAlt": "Subestación eléctrica en Leoben, Austria; fotografía ilustrativa, no es un proyecto de DALET",
+    "imageCaption": "INFRAESTRUCTURA ELÉCTRICA · IMAGEN ILUSTRATIVA",
+    "imageCredit": "Fotografía ilustrativa"
+  },
+  "projects": {
+    "eyebrow": "05 / PROYECTOS",
+    "title": "Infraestructura con propósito.",
+    "description": "Un espacio para conocer el alcance de nuestro trabajo.",
+    "emptyTitle": "Próximamente, nuestros proyectos.",
+    "emptyDescription": "Estamos preparando la selección de proyectos para esta sección. Mientras tanto, conversemos sobre el tuyo.",
+    "cta": "Cuéntanos tu proyecto",
+    "location": "Ubicación",
+    "infrastructure": "Infraestructura",
+    "capacity": "Capacidad instalada",
+    "scope": "Alcance de DALET",
+    "statusLabel": "Estado",
+    "status": {
+      "in-development": "En desarrollo",
+      "in-progress": "En ejecución",
+      "completed": "Concluido"
+    },
+    "worksScope": "Alcance de los trabajos"
+  },
+  "process": {
+    "eyebrow": "06 / NUESTRO PROCESO",
+    "title": "Claridad en cada etapa.\nDirección en todo el proyecto.",
+    "intro": "Una metodología que conecta la necesidad energética con el desarrollo de la infraestructura.",
+    "items": [
+      {
+        "title": "Evaluación inicial",
+        "description": "Entendemos el contexto, los objetivos y los requerimientos de tu proyecto."
+      },
+      {
+        "title": "Factibilidad técnica y eléctrica",
+        "description": "Analizamos las necesidades de suministro y las condiciones de infraestructura."
+      },
+      {
+        "title": "Ingeniería y planeación",
+        "description": "Definimos la solución técnica y la ruta de desarrollo."
+      },
+      {
+        "title": "Gestión y estructuración",
+        "description": "Coordinamos permisos, procedimientos y la estructura del proyecto."
+      },
+      {
+        "title": "Construcción mediante CREXA",
+        "description": "Articulamos la ejecución con nuestro brazo constructor y operador."
+      },
+      {
+        "title": "Entrega y administración",
+        "description": "Coordinamos la entrega y la administración del proyecto eléctrico."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "CONSTRUYAMOS LA SIGUIENTE ETAPA",
+    "title": "La energía de tu próximo proyecto comienza aquí.",
+    "description": "Conversemos sobre los retos eléctricos de tu desarrollo en México.",
+    "cta": "Solicita una reunión",
+    "pageTitle": "Hablemos de tu proyecto.",
+    "pageDescription": "Comparte tu visión. Te ayudamos a definir los siguientes pasos para desarrollar su infraestructura eléctrica.",
+    "details": "Contacto corporativo",
+    "pending": "Los datos corporativos se publicarán una vez confirmados.",
+    "formTitle": "Solicita una reunión",
+    "formSubtitle": "Déjanos tus datos y el contexto de tu proyecto.",
+    "mexico": "DESARROLLAMOS EN MÉXICO"
+  },
+  "footer": {
+    "description": "Desarrollo estratégico de infraestructura eléctrica en México.",
+    "navigation": "EXPLORA",
+    "connect": "SIGUIENTE PASO",
+    "privacy": "Aviso de privacidad",
+    "rights": "Todos los derechos reservados.",
+    "credit": "Ingeniería. Visión. Desarrollo.",
+    "logoPending": "Logotipo oficial pendiente de incorporación"
+  },
+  "form": {
+    "name": "Nombre completo",
+    "company": "Empresa",
+    "email": "Correo electrónico corporativo",
+    "phone": "Teléfono",
+    "location": "Ubicación del proyecto",
+    "projectType": "Tipo de proyecto",
+    "capacity": "Capacidad eléctrica requerida",
+    "startDate": "Fecha estimada de inicio",
+    "message": "Descripción del proyecto",
+    "contactMessage": "Mensaje",
+    "select": "Selecciona una opción",
+    "types": [
+      "Parque industrial",
+      "Industria / manufactura",
+      "Desarrollo inmobiliario",
+      "Proyecto comercial",
+      "Otro"
+    ],
+    "capacityHint": "Indica cantidad y unidad, por ejemplo: 500 kW o 2 MW.",
+    "consent": "He leído el aviso de privacidad y acepto el tratamiento de mis datos para atender mi solicitud.",
+    "privacyLink": "Consultar aviso de privacidad",
+    "submit": "Solicitar evaluación de factibilidad",
+    "meeting": "Solicitar una reunión",
+    "sending": "Enviando solicitud…",
+    "success": "Tu solicitud se envió correctamente. El equipo de DALET podrá revisar la información y dar seguimiento.",
+    "unavailable": "El envío aún no está habilitado. La integración de correo corporativo debe configurarse antes de recibir solicitudes. Tus datos no se han enviado.",
+    "error": "No se pudo enviar la solicitud. Inténtalo de nuevo más tarde.",
+    "rate": "Has realizado varias solicitudes. Espera unos minutos antes de volver a intentarlo.",
+    "validation": "Revisa este campo.",
+    "capacityError": "Escribe una cantidad mayor que cero y su unidad: kW o MW.",
+    "consentError": "Acepta el aviso de privacidad para continuar.",
+    "required": "Todos los campos son obligatorios.",
+    "spam": "Deja este campo vacío"
+  },
+  "privacy": {
+    "title": "Aviso de privacidad",
+    "eyebrow": "TRATAMIENTO DE DATOS",
+    "intro": "Información sobre el tratamiento de los datos que compartes a través de este sitio.",
+    "draft": "Aviso provisional: antes de habilitar la recepción de solicitudes, DALET ELECTRIC debe completar y aprobar la identidad legal del responsable, domicilio y canal para ejercer derechos ARCO. El sitio mantiene el envío deshabilitado hasta configurar la integración de correo.",
+    "sections": [
+      {
+        "title": "Datos y finalidad",
+        "text": "Los formularios solicitan nombre, empresa, correo electrónico, teléfono e información del proyecto. Su finalidad es atender consultas, evaluar necesidades de infraestructura eléctrica y coordinar reuniones. No se solicitan datos personales sensibles."
+      },
+      {
+        "title": "Envío y proveedores",
+        "text": "Cuando la integración esté habilitada, la solicitud se enviará al correo corporativo configurado mediante Resend como proveedor de entrega. El sitio no mantiene una base de datos de solicitudes. El proveedor de alojamiento puede procesar registros técnicos para seguridad y funcionamiento."
+      },
+      {
+        "title": "Consentimiento y derechos",
+        "text": "El envío requiere aceptar este aviso. Para solicitar acceso, rectificación, cancelación u oposición al tratamiento de tus datos, utiliza el canal corporativo que se publicará aquí una vez confirmado."
+      },
+      {
+        "title": "Seguridad y conservación",
+        "text": "La recepción usa validación de datos, medidas contra envíos automatizados y conexiones HTTPS en producción. La empresa deberá definir sus plazos de conservación y atender las solicitudes de eliminación conforme a las disposiciones aplicables."
+      },
+      {
+        "title": "Cookies y cambios",
+        "text": "Este sitio no incorpora herramientas de publicidad ni analítica. El selector de idioma puede guardar una preferencia técnica. Las actualizaciones de este aviso se publicarán en esta página."
+      }
+    ]
+  },
+  "seo": {
+    "homeTitle": "Dalet Electric | Desarrollo de infraestructura eléctrica en México",
+    "homeDescription": "Desarrollo de infraestructura eléctrica industrial en México: subestaciones, ingeniería, factibilidad eléctrica CFE, líneas de media y alta tensión y planeación para parques industriales.",
+    "contactTitle": "Contacto | Dalet Electric",
+    "contactDescription": "Conversemos sobre la factibilidad, ingeniería y desarrollo de infraestructura eléctrica de tu proyecto industrial en México.",
+    "privacyTitle": "Aviso de privacidad | Dalet Electric",
+    "privacyDescription": "Información sobre el tratamiento de datos personales en los formularios de Dalet Electric."
+  },
+  "group": {
+    "statement": "Dalet Electric forma parte del grupo <group>Total Solutions of Energy</group>.",
+    "linkLabel": "Total Solutions of Energy — abre en una nueva pestaña"
+  }
+}
